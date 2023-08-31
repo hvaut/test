@@ -16,7 +16,7 @@ public class Toast
     public Toast()
     {
         // Instanzvariable initialisieren
-        x = 0;
+        x = 7;
     }
 
     /**
